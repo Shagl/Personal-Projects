@@ -1,2 +1,2 @@
-# Personal-Projects
+# Personal-Project
 Movie Recommendation
